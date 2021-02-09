@@ -3,7 +3,7 @@ Some of my favourite and most referred to materials for backend
 
 ### Youtube Channels 
 - [Hussein Nasser's Channel](https://www.youtube.com/user/GISIGeometry) - short engaging videos on backend topics, organised by levels and upto date news 
-- [System design Interview Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ) - not new updates but some of the best videos on system design
+- [System design Interview Channel](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ) - no new updates but some of the best videos on system design
 - [Books on System Design  by sudoCode](https://www.youtube.com/watch?v=5dqvbDModlw) - this in particular video I watched that completely validates my feeling that system design is not all individual experience and intuition. 
 
 ### Books
